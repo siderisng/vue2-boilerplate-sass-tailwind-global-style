@@ -1,9 +1,9 @@
 # VUE 2 Boilerplate with Sass, tailwind & global styles already set up
 
 ## Project setup
-```
-npm install
-```
+1. clone the repository
+2. `npm install`
+3. change the name in package.json
 
 ### Compiles and hot-reloads for development
 ```
