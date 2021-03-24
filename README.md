@@ -1,4 +1,4 @@
-# stack-sorter
+# VUE 2 Boilerplate with Sass, tailwind & global styles already set up
 
 ## Project setup
 ```
