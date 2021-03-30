@@ -4,6 +4,7 @@
 1. clone the repository
 2. `npm install`
 3. change the name in package.json
+4. change the remote repo url to your new repo
 
 ### Compiles and hot-reloads for development
 ```
